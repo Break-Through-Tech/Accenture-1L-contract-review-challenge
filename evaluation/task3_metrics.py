@@ -1,4 +1,3 @@
-"""Task 3 evaluation. Bundles are also readable by the task-4 notebook."""
 import hashlib
 import json
 from pathlib import Path
@@ -30,7 +29,7 @@ def validate_bundle(bundle):
         pred = np.asarray(entry['predictions'])
         if pred.shape != shape or not np.isin(pred, [0, 1]).all():
             raise ValueError(f'{name}: invalid predictions.')
-        # Optional explicit axes protect against same-shaped permutations.
+
         if 'labels' in entry and entry['labels'] != labels:
             raise ValueError(f'{name}: label order mismatch.')
         ids = [[r['contract_title'], r['chunk_id']] for r in bundle['chunks']]
@@ -77,7 +76,7 @@ def evaluate(bundle):
                                       ('recall', r, tp.sum(), (tp+fn).sum()),
                                       ('f1', f, 2*tp.sum(), (2*tp+fp+fn).sum())]:
             row['micro_'+metric] = float(ratio(num, den))
-            # Stable comparison across all categories, compatible with sklearn zero_division=0.
+
             row['macro_'+metric+'_zero'] = float(np.nan_to_num(vals).mean())
             row['macro_'+metric+'_defined'] = float(vals[np.isfinite(vals)].mean()) if np.isfinite(vals).any() else np.nan
             row[metric+'_defined_categories'] = int(np.isfinite(vals).sum())
@@ -91,7 +90,7 @@ def export_results(bundle, output_dir):
     out.mkdir(parents=True, exist_ok=True)
     categories.to_csv(out / 'per_category_metrics.csv', index=False)
     overall.to_csv(out / 'model_comparison.csv', index=False)
-    # Preserve predictions and metadata for task 4, including synthetic provenance.
+
     (out / 'task4_inputs.json').write_text(json.dumps(bundle, indent=2, allow_nan=False))
     provenance = dict(synthetic=bundle['synthetic'], run_description=bundle['run_description'],
         input_sha256=hashlib.sha256(json.dumps(bundle, sort_keys=True, allow_nan=False).encode()).hexdigest(),
@@ -102,7 +101,7 @@ def export_results(bundle, output_dir):
 
 
 def bundle_from_runtime(chunks, truth, mlb, models, run_description, alignment_confirmed=False):
-    """Models must have predictions, labels, row_ids and optional probabilities/threshold."""
+
     if not alignment_confirmed:
         raise ValueError('Confirm each model used these exact validation rows and category order.')
     chunks = chunks.reset_index(drop=True)
