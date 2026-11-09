@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "version": "advisor-proposal-v1",
+  "calibration_status": "provisional_not_advisor_calibrated",
+  "weights": {
+    "missing_protections": 1.0,
+    "financial_exposure": 1.0,
+    "one_sided_rights": 1.0,
+    "renewal_ip_clarity": 1.0
+  },
+  "severity": {
+    "missing_liability": 1.0,
+    "missing_indemnification": 1.0,
+    "missing_ip_ownership": 1.0,
+    "uncapped_liability": 1.0,
+    "open_ended_indemnification": 1.0,
+    "one_sided_termination": 1.0,
+    "renewal_without_notice": 1.0,
+    "ambiguous_ip_ownership": 1.0
+  },
+  "thresholds": {
+    "medium": 25.0,
+    "high": 60.0
+  },
+  "calibration_contract_ids": []
+}

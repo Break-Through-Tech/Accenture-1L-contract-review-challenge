@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Milestone 3: synthetic scoring example",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "risk_scoring",
+      "cwd": "${workspaceFolder}",
+      "args": ["score", "--input", "examples/risk_scoring_synthetic.json", "--config", "config/risk_scoring.json", "--output", "synthetic_scores.json"],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Milestone 3: advisor review packet (unrated)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "risk_scoring",
+      "cwd": "${workspaceFolder}",
+      "args": ["score", "--input", "examples/advisor_review_pending.json", "--output", "pending_scores.json"],
+      "console": "integratedTerminal"
+    }
+  ]
+}

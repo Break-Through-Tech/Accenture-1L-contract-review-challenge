@@ -1,0 +1,1277 @@
+[
+  {
+    "record_id": "5eef5e7a1882fe99",
+    "contract_id": "INTRICONCORP_03_10_2009-EX-10.22-Strategic Alliance Agreement",
+    "category": "Cap On Liability",
+    "text": "IntriCon is not liable in any way to Dynamic Hearing for any indirect, consequential, third party, special or incidental  harm, liability, expense, cost, loss or damage, loss of profits, loss of data, exemplary damages or any other indirect  commercial or economic loss of any kind whatsoever incurred by Dynamic Hearing whether in negligence, tort, equity,  contract or otherwise, arising in connection with this Agreement;",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=35924",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "203721d88e628306",
+    "contract_id": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT",
+    "category": "Ip Ownership Assignment",
+    "text": "Subject to Commerce One's pre-existing ownership of any         materials or technology provided to Corio, the results of all such         development efforts set forth in this Section 13, including all         intellectual property rights in any software interface coding or         programs created solely by Corio during the term of this Agreement to         enable the Software to operated within the Corio Servers' hosted         environment (\"DEVELOPMENTS\"), shall be owned by Corio, unless such         Developments are supported on an ongoing basis by Commerce One in which         case Commerce One will retain all ownership rights, including\n\n\n\n\n\n     intellectual property rights in the Developments.",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=43498",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "a439c5f43d4cd3a7",
+    "contract_id": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT",
+    "category": "Notice Period To Terminate Renewal",
+    "text": "Thereafter, this Agreement shall automatically renew for         subsequent one (1) year periods unless either party provides the other         party with written notification at least thirty (30) days prior to the         expiration of the initial five (5) year term or any one (1) year renewal         thereof of its intention to terminate this Agreement.",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=35657",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "b57f14eb0872da4b",
+    "contract_id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT",
+    "category": "Renewal Term",
+    "text": "If Distributor                            complies with all of the terms of this Agreement, the                            Agreement  shall be  renewable on an annual basis for                            one (1) year terms for up to  another  ten (10) years                            on the same terms and conditions as set forth herein.",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=5543",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "a42bb5e672b9175e",
+    "contract_id": "INTRICONCORP_03_10_2009-EX-10.22-Strategic Alliance Agreement",
+    "category": "Termination For Convenience",
+    "text": "Subject to the provisions of 11.1, Dynamic Hearing may terminate this Agreement upon three (3) months written notice  to IntriCon of such termination.",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=39971",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "4288f6122d6e49b2",
+    "contract_id": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT",
+    "category": "Uncapped Liability",
+    "text": "EXCEPT FOR LIABILITY ARISING UNDER SECTION 8 OF THIS AGREEMENT, IN NO         EVENT SHALL EITHER PARTY'S LIABILITY ARISING OUT OF THIS AGREEMENT OR         THE USE OR PERFORMANCE OF THE SOFTWARE EXCEED THE TOTAL AMOUNT ACTUALLY         PAID BY CORIO HEREUNDER FOR THE TRANSACTION WHICH THE LIABILITY RELATES         TO DURING THE TWELVE (12) MONTHS IMMEDIATELY PRIOR TO THE FILING OF THE         CAUSE OF ACTION TO WHICH THE LIABILITY RELATES.",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=33580",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "c21be905c43cb3d7",
+    "contract_id": "INTRICONCORP_03_10_2009-EX-10.22-Strategic Alliance Agreement",
+    "category": "Cap On Liability",
+    "text": "(i)    if the breach relates to goods:\n\n          (A)    the replacement of goods or the supply of equivalent goods; or\n\n          (B)    the repair of such goods; and\n\n          (ii)    if the breach relates to services: the supplying of the services again.",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=37021",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "202db2915a81b339",
+    "contract_id": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT",
+    "category": "Ip Ownership Assignment",
+    "text": "To the extent that         Commerce One would otherwise have a claim of ownership in such         Developments, Commerce One hereby assigns all rights in and to such         Developments to Corio.",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=44210",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "2949c39b446477ae",
+    "contract_id": "ENERGOUSCORP_03_16_2017-EX-10.24-STRATEGIC ALLIANCE AGREEMENT",
+    "category": "Notice Period To Terminate Renewal",
+    "text": "Unless earlier terminated as provided herein, this Agreement continues in effect for an initial term of seven (7) years (\"Initial Term\") and will automatically renew for one or more annual periods after the Initial Term (each a \"Renewal Term\") unless either party gives notice of non-renewal at least one hundred eighty (180) days prior to the beginning of any Renewal Term.",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=58748",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "bf44550e1c81f9ea",
+    "contract_id": "ENERGOUSCORP_03_16_2017-EX-10.24-STRATEGIC ALLIANCE AGREEMENT",
+    "category": "Termination For Convenience",
+    "text": "ENERGOUS may, at any time after the third anniversary of the Effective Date, terminate this Agreement with or without cause upon not less than one hundred and eighty (180) days prior written notice to DIALOG.",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=60578",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "f53f4ceb9170dbf9",
+    "contract_id": "ENERGOUSCORP_03_16_2017-EX-10.24-STRATEGIC ALLIANCE AGREEMENT",
+    "category": "Uncapped Liability",
+    "text": "EXCEPT IN THE CASE OF (a) ANY BREACH OF SECTION 10 (CONFIDENTIALITY), (b) THE PARTIES' OBLIGATIONS UNDER SECTION 12 (INDEMNIFICATION), (c) A PARTY'S GROSS NEGLIGENCE OR WILLFUL MISCONDUCT, OR (d) LIABILITY ARISING FROM EPIDEMIC DEFECTS (WHICH WILL BE SUBJECT TO THE LIMITATION SET FORTH IN SECTION 11.2(d)), IN NO EVENT WILL EITHER PARTY BE LIABLE UNDER THIS AGREEMENT, REGARDLESS OF THE FORM OF ANY CLAIM OR ACTION (WHETHER IN CONTRACT, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE), FOR ANY (i) INDIRECT, PUNITIVE, INCIDENTAL, RELIANCE, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, INCLUDING, BUT NOT LIMITED TO, LOSS OF BUSINESS, REVENUES, PROFITS OR GOODWILL, OR (ii) AGGREGATE DAMAGES IN EXCESS OF [***].",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=56075",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "0760261b476374a9",
+    "contract_id": "INTRICONCORP_03_10_2009-EX-10.22-Strategic Alliance Agreement",
+    "category": "Cap On Liability",
+    "text": "Dynamic Hearing is not liable in any way to IntriCon for any indirect, consequential, third party, special or incidental  harm, liability, expense, cost, loss or damage, loss of profits, loss of data, exemplary damages or any other indirect  commercial or economic loss of any kind whatsoever incurred by IntriCon whether in negligence, tort, equity, contract  or otherwise, arising in connection with this Agreement;",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=35495",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "3cad756f0c1f44f8",
+    "contract_id": "ENERGOUSCORP_03_16_2017-EX-10.24-STRATEGIC ALLIANCE AGREEMENT",
+    "category": "Ip Ownership Assignment",
+    "text": "Upon the termination of DIALOG's right to manufacture the Licensed Products following any expiration or termination of the Agreement or any Wind Down Period or Continuing Obligation period, as applicable, then all right, title and interest in the Tooling will automatically transfer to ENERGOUS subject to any Third Party IP, and DIALOG will, at ENERGOUS' option, either sell any Tooling in its possession to ENERGOUS at cost or destroy the Tooling and certify in writing as to same.",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=21975",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "0d0f175d3075e289",
+    "contract_id": "LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement",
+    "category": "Notice Period To Terminate Renewal",
+    "text": "The Term shall automatically renew thereafter for successive 5-year terms unless either party provides prior written notice of termination not less than 90 days prior to the end of such five-year term.",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=27523",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "b411f1a5083cfa7e",
+    "contract_id": "CytodynInc_20200109_10-Q_EX-10.5_11941634_EX-10.5_License Agreement",
+    "category": "Termination For Convenience",
+    "text": "(c) at any time following the second (2nd) anniversary of the First Commercial Sale of the Licensed Product, for any reason or no reason, upon one hundred eighty (180) days' written notice to CytoDyn.",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=115970",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "7cd907a468a8781d",
+    "contract_id": "CytodynInc_20200109_10-Q_EX-10.5_11941634_EX-10.5_License Agreement",
+    "category": "Uncapped Liability",
+    "text": "EXCEPT FOR A PARTY'S OBLIGATIONS SET FORTH IN THIS ARTICLE 13, AND ANY BREACH OF ARTICLE 10 (CONFIDENTIALITY), IN NO EVENT WILL EITHER PARTY BE LIABLE TO THE OTHER PARTY (OR THE OTHER PARTY'S AFFILIATES OR SUBLICENSEES) IN CONNECTION WITH THIS AGREEMENT FOR LOST REVENUE, LOST PROFITS, LOST ROYALTIES, LOST SAVINGS, LOSS OF USE, DAMAGE TO GOODWILL, OR ANY CONSEQUENTIAL, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE OR INDIRECT DAMAGES IN CONNECTION WITH THIS AGREEMENT, HOWEVER CAUSED, UNDER ANY THEORY OF LIABILITY, INCLUDING CONTRACT, NEGLIGENCE, OR STRICT LIABILITY, EVEN IF THAT PARTY HAS BEEN PLACED ON NOTICE OF THE POSSIBILITY OF SUCH DAMAGES.",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=147144",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "050cacdfa6cebb34",
+    "contract_id": "INTRICONCORP_03_10_2009-EX-10.22-Strategic Alliance Agreement",
+    "category": "Cap On Liability",
+    "text": "Dynamic Hearing's aggregate liability to IntriCon for direct loss and damages and all other liability not described herein  arising in connection with this Agreement whether in negligence, tort, equity, contract or otherwise, is limited to  payment of damages recoverable at law or equity up to a maximum of (and, for the sake of clarity must not exceed) $5m;",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=36360",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "a3d043c124ae3049",
+    "contract_id": "CytodynInc_20200109_10-Q_EX-10.5_11941634_EX-10.5_License Agreement",
+    "category": "Ip Ownership Assignment",
+    "text": "Vyera will, upon reasonable request of CytoDyn, and at CytoDyn's expense, execute or cause to be executed, any assignments, filings, applications or other documents that CytoDyn may require to evidence its rights in the Inventions.",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=39021",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "20a9a1f42736ef12",
+    "contract_id": "FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement",
+    "category": "Notice Period To Terminate Renewal",
+    "text": "This agreement begins on the Commencement Date and, subject to clause 11.2, shall continue for an initial term of one (1) years (Initial Term) and indefinitely after that until terminated by either party giving at least twelve (12) months' prior written notice to expire on or after the expiry date of the initial term.",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=17984",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "c363592833d7b112",
+    "contract_id": "CytodynInc_20200109_10-Q_EX-10.5_11941634_EX-10.5_License Agreement",
+    "category": "Termination For Convenience",
+    "text": "Vyera shall have the right to terminate this Agreement in its entirety:",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=114883",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "bf173c34c5e5aac7",
+    "contract_id": "ImpresseCorp_20000322_S-1A_EX-10.11_5199234_EX-10.11_Co-Branding Agreement",
+    "category": "Uncapped Liability",
+    "text": "Except for claims under Sections 9.4  [INDEMNIFICATION BY IMPRESSE] and 9.5  [INDEMNIFICATION BY VERTICALNET]",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=23930",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "372907e5f326569b",
+    "contract_id": "INTRICONCORP_03_10_2009-EX-10.22-Strategic Alliance Agreement",
+    "category": "Cap On Liability",
+    "text": "if any legislation implies in this Agreement any term or warranty which cannot be excluded or modified, the liability of  Dynamic Hearing for a breach of any such term or warranty is limited, at the option of Dynamic Hearing, to any one or  more of the following:",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=36736",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "a3baecf281401b8e",
+    "contract_id": "CytodynInc_20200109_10-Q_EX-10.5_11941634_EX-10.5_License Agreement",
+    "category": "Ip Ownership Assignment",
+    "text": "If Vyera acquires any rights in the Trademarks, by operation of Applicable Law, or otherwise, such rights shall be deemed and are hereby irrevocably assigned to CytoDyn without further action by either Party.",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=60349",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "68d0eee411e68bab",
+    "contract_id": "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1",
+    "category": "Notice Period To Terminate Renewal",
+    "text": "Upon expiry of the Initial Term, this Agreement [*****] unless a Notice of non-renewal is given by either Party to the other Party [*****] prior to the expiry of the Initial Term or the end of a renewal period, if any.",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=32174",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  },
+  {
+    "record_id": "b714153eb6f6f699",
+    "contract_id": "SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement",
+    "category": "Termination For Convenience",
+    "text": "Either party may cancel this Agreement at any time, with or without supplying a reason, through written notification or by making suitable settings in the respective Control Panel.",
+    "split": "validation",
+    "source": "notebooks/val_annotations.csv:answer_start=19992",
+    "advisor_rating": null,
+    "assessments": {
+      "missing_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "missing_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "uncapped_liability": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "open_ended_indemnification": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "one_sided_termination": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "renewal_without_notice": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      },
+      "ambiguous_ip_ownership": {
+        "status": "unknown",
+        "rationale": "",
+        "reviewer": ""
+      }
+    }
+  }
+]
