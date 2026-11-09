@@ -1,0 +1,154 @@
+[
+  {
+    "record_id": "synthetic-0",
+    "contract_id": "synthetic-contract-0",
+    "category": "Synthetic illustration",
+    "text": "Both parties retain ownership of their pre-existing IP.",
+    "source": "Invented examples, not project results",
+    "split": "synthetic",
+    "assessments": {
+      "missing_liability": {
+        "status": "absent",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture"
+      },
+      "missing_indemnification": {
+        "status": "absent",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture"
+      },
+      "missing_ip_ownership": {
+        "status": "absent",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture"
+      },
+      "uncapped_liability": {
+        "status": "absent",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture"
+      },
+      "open_ended_indemnification": {
+        "status": "absent",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture"
+      },
+      "one_sided_termination": {
+        "status": "absent",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture"
+      },
+      "renewal_without_notice": {
+        "status": "absent",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture"
+      },
+      "ambiguous_ip_ownership": {
+        "status": "absent",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture"
+      }
+    }
+  },
+  {
+    "record_id": "synthetic-1",
+    "contract_id": "synthetic-contract-1",
+    "category": "Synthetic illustration",
+    "text": "Liability is unlimited.",
+    "source": "Invented examples, not project results",
+    "split": "synthetic",
+    "assessments": {
+      "missing_liability": {
+        "status": "absent",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture"
+      },
+      "missing_indemnification": {
+        "status": "absent",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture"
+      },
+      "missing_ip_ownership": {
+        "status": "absent",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture"
+      },
+      "uncapped_liability": {
+        "status": "present",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture",
+        "evidence": "Liability is unlimited."
+      },
+      "open_ended_indemnification": {
+        "status": "absent",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture"
+      },
+      "one_sided_termination": {
+        "status": "absent",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture"
+      },
+      "renewal_without_notice": {
+        "status": "absent",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture"
+      },
+      "ambiguous_ip_ownership": {
+        "status": "absent",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture"
+      }
+    }
+  },
+  {
+    "record_id": "synthetic-2",
+    "contract_id": "synthetic-contract-2",
+    "category": "Synthetic illustration",
+    "text": "Only the customer may terminate for convenience.",
+    "source": "Invented examples, not project results",
+    "split": "synthetic",
+    "assessments": {
+      "missing_liability": {
+        "status": "absent",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture"
+      },
+      "missing_indemnification": {
+        "status": "absent",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture"
+      },
+      "missing_ip_ownership": {
+        "status": "absent",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture"
+      },
+      "uncapped_liability": {
+        "status": "absent",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture"
+      },
+      "open_ended_indemnification": {
+        "status": "absent",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture"
+      },
+      "one_sided_termination": {
+        "status": "present",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture",
+        "evidence": "Only the customer may terminate for convenience."
+      },
+      "renewal_without_notice": {
+        "status": "absent",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture"
+      },
+      "ambiguous_ip_ownership": {
+        "status": "absent",
+        "rationale": "Synthetic fixture assessment; not a real contract finding.",
+        "reviewer": "synthetic fixture"
+      }
+    }
+  }
+]

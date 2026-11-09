@@ -119,3 +119,7 @@ Cite relevant papers, articles, or resources that supported your project.
 ## 🙏 **Acknowledgements** (Optional but encouraged)
 
 Thank your Challenge Advisor, host company representatives, TA, and others who supported your project.
+
+## Milestone 3 risk-scoring layer
+
+See [setup, advisor rubric mapping, scoring and calibration commands](docs/milestone3_risk_scoring.md). The implementation is in `risk_scoring/`; initial configuration is provisional pending advisor ratings.
