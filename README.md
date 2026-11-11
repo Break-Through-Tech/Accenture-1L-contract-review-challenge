@@ -1,4 +1,5 @@
-# AI Studio Challenge Project Title
+# Contract Review and Risk Scoring with NLP
+Break Through Tech AI Studio | Accenture1L | Fall 2026
 
 > 💡 **Note for the team:** This is just a template. Update the above title with your AI Studio Challenge Project name. Remove all guidance notes and example text in this template and populate this README with your own content. You can work on this README throughout AI Studio, and get feedback from your AI Studio Coach and Challenge Advisor before finalizing it.  
 
@@ -6,15 +7,13 @@
 
 ### 👥 **Team Members**
 
-**Example:**
-
 | Name             | GitHub Handle | Contribution                                                             |
 |------------------|---------------|--------------------------------------------------------------------------|
 | Taylor Nguyen    | @taylornguyen | Data exploration, visualization, overall project coordination            |
 | Jordan Ramirez   | @jramirez     | Data collection, exploratory data analysis (EDA), dataset documentation  |
 | Amina Hassan     | @aminahassan  | Data preprocessing, feature engineering, data validation                 |
 | Priya Mehta      | @pmehta       | Model selection, hyperparameter tuning, model training and optimization  |
-| Chris Park       | @chrispark    | Model evaluation, performance analysis, results interpretation           |
+| Kenneth Silvestre       | @KennethS777    | TF-IDF baseline, address class imbalances, validated risk scoring           |
 
 ---
 
