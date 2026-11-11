@@ -32,11 +32,26 @@ Break Through Tech AI Studio | Accenture1L | Fall 2026
 
 **Provide step-by-step instructions so someone else can run your code and reproduce your results. Depending on your setup, include:**
 
-* How to clone the repository
-* How to install dependencies
-* How to set up the environment
-* How to access the dataset(s)
-* How to run the notebook or scripts
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Break-Through-Tech/Accenture-1L-contract-review-challenge.git
+   cd Accenture-1L-contract-review-challenge
+   ```
+2. **Create an environment**
+   ```bash
+   # Create environment
+   python -m venv .venv
+   # Activation for  macOS/Linux
+   source .venv/bin/activate
+   # Activation for Windows PowerShell
+   # .venv\Scripts\Activate.ps1
+   ```
+3. **Install Project Dependencies**
+  ```bash
+  pip install -r requirements.txt
+  ```
+4. **Explore Project**
+   Review [Challenge-Project-Overview.md](./Challenge-Project-Overview.md)
 
 ---
 
