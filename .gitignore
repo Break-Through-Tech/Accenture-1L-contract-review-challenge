@@ -1,1 +1,12 @@
 
+
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated model files
+outputs/pipeline/model/
+outputs/pipeline/training_checkpoints/
